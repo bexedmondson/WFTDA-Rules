@@ -1,0 +1,6 @@
+**If the game ends with the score tied, the second period will be extended by at least one additional Jam.** This Overtime Jam is like any other Jam, with two exceptions:
+
+- No Lead Jammer is declared
+- Both Jammers begin scoring on their first trip through the Pack (each Jammer is in position to lap the opposing Blockers on their first earned pass of those Blockers)
+
+More Jams will be added in this manner until a Jam ends with the score no longer tied.

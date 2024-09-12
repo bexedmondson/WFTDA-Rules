@@ -1,0 +1,1 @@
+**Each team has three timeouts that they can take during the game.** Team Timeouts may be requested only by the team’s Captain or Designated Alternate. Penalized Captains or Designated Alternates cannot request a Team Timeout. Team Timeouts last for 60 seconds.

@@ -1,0 +1,7 @@
+**Each team begins the period with one Official Review** which they may use during that period. An Official Review is a formal request made by a team’s Captain or Designated Alternate for Officials to review a specific officiating decision. The only officiating decisions that can be the subject of an Official Review are those made during the prior Jam, or during the lineup time preceding the prior Jam. The Head Referee investigates the review with other Officials, and uses the information gathered to render a decision on the item under review, as well as related decisions. The Head Referee then announces their findings and any changes that result from the review to both teams’ representatives. This decision is final and not reviewable.
+
+If the Head Referee determines that an officiating error was made in relation to the situation under review, the team will retain the privilege to call an additional review later in the same period. The review can be retained in this manner only once per period.
+
+A team may also elect to use their Official Review as a Team Timeout. In this case, the review will not be retained. Penalized Captains or Designated Alternates cannot request an Official Review.
+
+Official Reviews (whether unused or retained) are not carried forward to the subsequent period.

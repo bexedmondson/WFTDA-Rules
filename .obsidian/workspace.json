@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "57e5bddd6c7d4b20",
+    "type": "split",
+    "children": [
+      {
+        "id": "8973da889dbb477d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05b3c4dc1fc39f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/2. Gameplay/2.2.2. Lead Jammer.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6da9e64a89ab829b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a675e1035605d8b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca6d3455254f3d8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf3c601de0c3b611",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5529b293bc5d856b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "fa9048373a4a0780",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2c8398f856d16e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a698c4c26d8c0c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rules/2. Gameplay/2.2.2. Lead Jammer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bf1921ec1bc7b47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rules/2. Gameplay/2.2.2. Lead Jammer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21b55068e45e51e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a9ea0a4884c938a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rules/2. Gameplay/2.2.2. Lead Jammer.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ca6d3455254f3d8b",
+  "lastOpenFiles": [
+    "Notes",
+    "Rules/2. Gameplay/2.2.2. Lead Jammer.md",
+    "Home.md",
+    "Casebook/5. Officiating/5.4. Assessing Penalties Casebook.md",
+    "Casebook/5. Officiating/5. Officiating Casebook.md",
+    "Casebook/4. Penalties/4.5. Fouling Out and Expulsions Casebook.md",
+    "Casebook/4. Penalties/4.4.2. Penalty Enforcement for Jammers Casebook.md",
+    "Casebook/4. Penalties/4.4.1. Penalty Enforcement for Blockers Casebook.md",
+    "Casebook/4. Penalties/4.4. Enforcing Penalties Casebook.md",
+    "Casebook/4. Penalties/4.3. Penalties for Unsporting Conduct (Misconduct) Casebook.md",
+    "Casebook/4. Penalties/4.2.4. Other Illegal Procedures Casebook.md",
+    "Casebook/4. Penalties/4.2.3. Interfering with the Flow of the Game Casebook.md",
+    "Casebook/4. Penalties/4.2.2. Gaining Position Casebook.md",
+    "Casebook/4. Penalties/4.2.1. Illegal Positioning Casebook.md",
+    "Casebook/4. Penalties/4.2. Game Structure Penalties Casebook.md",
+    "Casebook/4. Penalties/4.1.4. Multiplayer Blocks Casebook.md",
+    "Casebook/4. Penalties/4.1.3. Other Illegal Contact Casebook.md",
+    "Casebook/4. Penalties/4.1.2. Impact with an Illegal Blocking Zone Casebook.md",
+    "Casebook/4. Penalties/4.1.1. Impact to an Illegal Target Zone Casebook.md",
+    "Casebook/4. Penalties/4.1. Contact Penalties Casebook.md",
+    "Casebook/4. Penalties/4. Penalties Casebook.md",
+    "Casebook/3. Scoring/3.5. Errors in Scoring and Score Reporting Casebook.md",
+    "Casebook/3. Scoring/3.4. Penalized Jammers Casebook.md",
+    "Casebook/3. Scoring/3.3. Scoring Avoidance Casebook.md",
+    "Casebook/3. Scoring/3.2. Scoring Trips Casebook.md",
+    "Casebook/3. Scoring/3.1. Earning Points Casebook.md",
+    "Casebook/Images/c-gameplay-pack-stretch.png",
+    "Casebook/Images/c-gameplay-front-skates-forward.png",
+    "Casebook/Images/c-gameplay-pack-blocked-out.png",
+    "Casebook/Images/blocking_zones.png",
+    "Casebook/Images/c-gameplay-positions.png",
+    "temp",
+    "Casebook/Other",
+    "Casebook/Images/track_dimensions.png",
+    "Casebook/Images/target_zones.png",
+    "Casebook/Images",
+    "Casebook/5. Officiating",
+    "Casebook/4. Penalties",
+    "Casebook/3. Scoring",
+    "Casebook/2. Gameplay",
+    "Casebook/1. Game Parameters and Safety",
+    "Casebook",
+    "Rules",
+    "Rules/Images/blocking_zones.png",
+    "Rules/Images/target_zones.png",
+    "Images/track_dimensions 1.png"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:temp/template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ]
+}

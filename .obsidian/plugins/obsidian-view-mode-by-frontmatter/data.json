@@ -1,0 +1,21 @@
+{
+  "debounceTimeout": 300,
+  "ignoreOpenFiles": false,
+  "ignoreForceViewAll": false,
+  "folders": [
+    {
+      "folder": "Casebook",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "folder": "Rules",
+      "viewMode": "obsidianUIMode: preview"
+    }
+  ],
+  "files": [
+    {
+      "filePattern": "Home",
+      "viewMode": "obsidianUIMode: preview"
+    }
+  ]
+}
